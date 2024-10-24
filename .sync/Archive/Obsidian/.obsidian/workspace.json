@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "29cfef187cd9b2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4512f106f128ea03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ab3627df51c7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мирное небо/characters/Димка и Серёжка Гончаровы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Димка и Серёжка Гончаровы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce317e4b53938f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8483a758adb3418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf8dbaf847dfc0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dec574420dbeb3ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0dba1a24350eaa0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a825a8195cd0dca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6adc75b7b94deeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5945d7461b6298c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мирное небо/characters/Димка и Серёжка Гончаровы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Димка и Серёжка Гончаровы"
+            }
+          },
+          {
+            "id": "e9b8bad7cdfaf7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e0044cb6019f3db9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "235e597e0fa30228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a6803f7b70c9b9f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "83ab3627df51c7f4",
+  "lastOpenFiles": [
+    "Мирное небо/Assets/Pasted image 20241023162413.png",
+    "Мирное небо/Assets/Pasted image 20241023163605.png",
+    "Мирное небо/Assets/Pasted image 20241023164155.png",
+    "Мирное небо/Assets/Антонина Степановна Карпова (тётя Тоня).png",
+    "Мирное небо/Assets/Pasted image 20241023162145.png",
+    "Мирное небо/Assets/Pasted image 20241023162130.png",
+    "Мирное небо/Assets/Pasted image 20241023162021.png",
+    "Мирное небо/characters/Димка и Серёжка Гончаровы.md",
+    "Мирное небо/notes/Кречет (тяжёлый конвертоплан).md",
+    "Мирное небо/characters/Фёдор Николаевич Рыжов.md",
+    "Мирное небо/characters/Фёдор Николаевич Рыжов2.md",
+    "Мирное небо/characters/Антонина Степановна Карпова (тётя Тоня).md",
+    "Мирное небо/Assets/Ф.Н.Рыжов.png",
+    "Мирное небо/Assets/Фёдор Николаевич Рыжов.png",
+    "Мирное небо/notes/Неостоицизм.md",
+    "Мирное небо/notes",
+    "Untitled.md",
+    "Мирное небо/Assets",
+    "Мирное небо/characters",
+    "Мирное небо",
+    "data/Hi there.md",
+    "data/test.md",
+    "data",
+    "test.md",
+    "Мирное небо/assets/Антонина Степановна Карпова (тётя Тоня).png",
+    "Мирное небо/Персонажи/Антонина Степановна Карпова (\"тётя Тоня\").md",
+    "Мирное небо/assets",
+    "Мирное небо/Untitled.md",
+    "Gggg.md",
+    "Мирное небо/Персонажи.md",
+    "Мирное небо/characters",
+    "Мирное небо",
+    "22222.md",
+    "123421342134.md",
+    "22222.md",
+    "Hello.md",
+    "Anton.md",
+    "Hello world2.md",
+    "123.md"
+  ]
+}
