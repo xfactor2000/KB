@@ -2,4 +2,3 @@
 .git filter= diff=
 .gitattributes filter= diff=
 .gitignore filter= diff=
-.git-crypt filter= diff=
